@@ -1,4 +1,4 @@
-# Connect Chat - React Native
+# Whatsapp-Clone - React Native
 
 A WhatsApp-inspired mobile messaging application built with Expo and React Native as part of SAIT's Advanced Multi-Screen Mobile Application with Collaborative Navigation assignment.
 
