@@ -1,6 +1,6 @@
-# Whatsapp-Clone - React Native
+# Connect Chat - React Native
 
-A WhatsApp-inspired mobile messaging application built with Expo and React Native as part of SAIT's Advanced Multi-Screen Mobile Application with Collaborative Navigation assignment.
+A WhatsApp-inspired mobile messaging application built with Expo and React Native as part of SAIT's **Advanced Multi-Screen Mobile Application with Collaborative Navigation (Expo)** assignment.
 
 ## Student
 
@@ -12,13 +12,21 @@ A WhatsApp-inspired mobile messaging application built with Expo and React Nativ
 
 The following WhatsApp screens were used as references while recreating the user interface.
 
-## Chats Screen
+## Chats
 
-![Chats Reference](screenshots/chats Screen.png)
+![Chats Reference](Screenshots/chats_refrence.jpeg)
 
-## Settings Screen
+## Calls
 
-![Settings Reference](screenshots/settings-reference.png)
+![Calls Reference](Screenshots/Calls_refrence.jpeg)
+
+## Status
+
+![Status Reference](Screenshots/status_refrence.jpeg)
+
+## Settings
+
+![Settings Reference](Screenshots/Setting_refrence.jpeg)
 
 ---
 
@@ -26,23 +34,23 @@ The following WhatsApp screens were used as references while recreating the user
 
 ## Chats Screen
 
-![Chats Screen](screenshots/chats-app.png)
+![Chats Screen](Screenshots/Chats_clone.jpeg)
 
-## Chat Details
+## Chat Screen
 
-![Chat Details](screenshots/chat-details.png)
+![Chat Screen](Screenshots/chat_clone.jpeg)
 
 ## Calls Screen
 
-![Calls Screen](screenshots/calls-app.png)
+![Calls Screen](Screenshots/Calls_clone.jpeg)
 
-## Settings Screen
+## Status Screen
 
-![Settings Screen](screenshots/settings-app.png)
+![Status Screen](Screenshots/Status_clone.jpeg)
 
-## Dark Mode
+## Community Screen
 
-![Dark Mode](screenshots/dark-mode.png)
+![Community Screen](Screenshots/Community_clone.jpeg)
 
 ---
 
@@ -53,14 +61,17 @@ The following WhatsApp screens were used as references while recreating the user
 - Stack Navigation
 - Dynamic chat list using FlatList
 - Chat detail screen
+- Status screen
+- Calls screen
+- Community screen
 - Settings screen
-- Dark / Light theme support
+- Dark / Light Theme Support
 - Reusable components
 - Responsive UI
 
 ---
 
-# Technologies
+# Technologies Used
 
 - Expo
 - React Native
@@ -81,4 +92,4 @@ npx expo start
 
 # About
 
-This project recreates the interface and navigation of WhatsApp using modern React Native development practices. It demonstrates multi-screen navigation, reusable components, dynamic content, and theme support while following professional project structure and coding standards.
+This project recreates the interface and navigation of WhatsApp using modern React Native development practices. It demonstrates multi-screen navigation, reusable components, dynamic content, and theme support while following professional coding standards.
