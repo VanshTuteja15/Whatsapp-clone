@@ -14,7 +14,7 @@ The following WhatsApp screens were used as references while recreating the user
 
 ## Chats Screen
 
-c:\Users\vansh\Downloads\Screenshots\Screenshots\Chats Screen.jpeg
+![Chats Reference](screenshots/chats Screen.png)
 
 ## Settings Screen
 
