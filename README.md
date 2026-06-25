@@ -14,11 +14,7 @@ The following WhatsApp screens were used as references while recreating the user
 
 ## Chats Screen
 
-![Chats Reference](screenshots/chats-reference.png)
-
-## Calls Screen
-
-![Calls Reference](screenshots/calls-reference.png)
+c:\Users\vansh\Downloads\Screenshots\Screenshots\Chats Screen.jpeg
 
 ## Settings Screen
 

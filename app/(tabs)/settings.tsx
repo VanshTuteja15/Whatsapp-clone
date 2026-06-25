@@ -1,3 +1,4 @@
+import VanshTuteja from "@/assets/images/Vansh_Tuteja.jpg";
 import { useTheme } from "@/context/ThemeContext";
 import { Feather, Ionicons } from "@expo/vector-icons";
 import React from "react";
@@ -82,10 +83,7 @@ export default function SettingsScreen() {
           activeOpacity={0.7}
         >
           <View>
-            <Image
-              source={{ uri: "https://i.pravatar.cc/150?img=12" }}
-              style={styles.avatar}
-            />
+            <Image source={VanshTuteja} style={styles.avatar} />
             <View
               style={[
                 styles.onlineDot,
